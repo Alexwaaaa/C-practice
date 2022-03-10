@@ -6,6 +6,7 @@ Created a git setup and learned some program of array
 
 ### Programs ###
 - Program1: C program to count frequency of each character in a string.
-- Protram2: C program to take the input as a command line arguments.
+- Program2: C program to take the input as a command line arguments.
+- Program3: C program takes two strings as input and checks whether two strings are anagrams
 
 more info [here](Day0/Day0.md)
