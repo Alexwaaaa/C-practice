@@ -15,5 +15,6 @@ more info [here](Day0/Day0.md)
 
 ### Programs ###
 - Program1: C program to remove digits from a strings.
+- Program2: C program to remove digits from a strings using pointer concepts.
 
 more info [here](Day1/Day1.md)
