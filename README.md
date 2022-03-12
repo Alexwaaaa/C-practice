@@ -2,6 +2,11 @@
 # C-practice #
 A collection of C practice problems
 
+## Day2 ##
+### Programs ###
+- Program1: C program to implements its own memcpy.
+
+more info [here](Day2/Day2.md)
 ## Day1 ##
 ### Programs ###
 - Program1: C program to remove digits from a strings.
