@@ -2,6 +2,11 @@
 # C-practice #
 A collection of C practice problems
 
+## Day4 ##
+### Programs ###
+- C program to copy two file into single file.c
+
+more info [here](Day4/Day3.md)
 ## Day3 ##
 ### Programs ###
 - Program1: C program to implements the linked list functionality with the
