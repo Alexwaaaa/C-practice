@@ -2,11 +2,19 @@
 # C-practice #
 A collection of C practice problems
 
+## Day5 ##
+### Programs ###
+- Program 1: C program to get the endiness of the system 
+- Program 2: C program to check the endiness and convert one endian to another.
+
+more info [here](Day5/Day5.md)
+
+
 ## Day4 ##
 ### Programs ###
 - C program to copy two file into single file.c
 
-more info [here](Day4/Day3.md)
+more info [here](Day4/Day4.md)
 ## Day3 ##
 ### Programs ###
 - Program1: C program to implements the linked list functionality with the
